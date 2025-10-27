@@ -125,6 +125,7 @@ main {
 
 .contentWrapper {
     font-size: 0;
+    text-align: center;
 }
 
 .infoCard {
@@ -208,4 +209,5 @@ footer img {
     float: right;
     margin-right: 25px;
     margin-top: 20px;
+
 }
